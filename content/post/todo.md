@@ -1,12 +1,5 @@
 +++
 title = "TODO"
-
-date = 2018-03-04
-lastmod = 2018-03-04
-draft = true
-
-tags = []
-summary = "TODO"
 +++
 
 TODOs to make it work!:
