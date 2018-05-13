@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://yuseinishiyama.com.s3-website.eu-central-1.amazonaws.com/"
 title = "yuseinishiyama.com"
 copyright = "&copy; 2018"
 theme = "zen"
