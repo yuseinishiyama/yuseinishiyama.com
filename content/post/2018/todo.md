@@ -14,9 +14,10 @@ TODOs to make it work!:
  - [ ] Youtube
  - [ ] SpeakerDeck
  - [ ] SoundCloud
-- [ ] Populate with real data
+- [x] Populate with real data
 - [x] Multilanguage support
-- [ ] Migrate JP blog posts from the original site
+- [x] Migrate JP blog posts from the original site
+ - [ ] Format old posts
 - [ ] CNAME
 - [ ] CloudFront
 - [ ] SSL
