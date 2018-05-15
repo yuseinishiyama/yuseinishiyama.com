@@ -1,31 +1,25 @@
 baseurl = "http://yuseinishiyama.com.s3-website.eu-central-1.amazonaws.com/"
 title = "yuseinishiyama.com"
-copyright = "&copy; 2018"
-theme = "zen"
+theme = "hugo-theme-pixyll"
+languageCode = "en-us"
 enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-paginate = 10
-disqusShortname = ""
-googleAnalytics = ""
 defaultContentLanguage = "ja"
-defaultContentLanguageInSubdir = false
 
-[params]
-  contact = "allegllet.scherzand@gmail.com"
-  logo = false
-  favicon = ""
 [languages]
 
-[languages.en]
+[languages.ja]
 weight = 1
 
-[languages.en.params]
-LanguageName = "English"
-
-[languages.ja]
+[languages.en]
 weight = 2
 
-[languages.ja.params]
-LanguageName = "Japanese"
+[indexes]
+category = "categories"
+tag = "tags"
+
+[params]
+#google_analytics_id = ""
+twitter_username = "yuseinishiyama"
+#disqus_shortname = ""
+paginate = 5
