@@ -8,7 +8,7 @@ Yusei Nishiyama, a programmer and music enthusiast.
 
 I majored in philosophy and aesthetics but the beauty of programming languages led me to become a programmer and I've now been working with iOS since 2012.
 
-When I'm coding, I'm spending some time listening to and making music. You can find me playing jazz piano in a pub.
+When I'm not coding, I'm spending some time listening to and making music. You can find me playing jazz piano in a pub.
 
 ## Books
 
