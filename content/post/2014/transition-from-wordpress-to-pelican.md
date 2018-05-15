@@ -1,6 +1,6 @@
 +++
 title = "WordpressからPelicanに移行中"
-date = "2014-1-31"
+date = "2014-01-31"
 +++
 
 静的サイトジェネレーターを使いたかったので、Wordpressをやめた。
