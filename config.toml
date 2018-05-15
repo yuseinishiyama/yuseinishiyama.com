@@ -5,6 +5,10 @@ languageCode = "en-us"
 enableEmoji = true
 preserveTaxonomyNames = true
 defaultContentLanguage = "ja"
+hasCJKLanguage = true
+
+[permalinks]
+post = "posts/:year/:month/:day/:filename/"
 
 [languages]
 
