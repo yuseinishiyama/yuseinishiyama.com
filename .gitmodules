@@ -1,6 +1,0 @@
-[submodule "themes/osprey"]
-	path = themes/osprey
-	url = https://github.com/tomanistor/osprey.git
-[submodule "themes/academic"]
-	path = themes/academic
-	url = https://github.com/gcushen/hugo-academic.git
