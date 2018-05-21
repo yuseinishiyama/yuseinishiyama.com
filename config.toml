@@ -1,4 +1,4 @@
-baseurl = "http://yuseinishiyama.com.s3-website.eu-central-1.amazonaws.com"
+baseurl = "http://yuseinishiyama.com"
 title = "yuseinishiyama.com"
 theme = "hugo-theme-pixyll"
 languageCode = "en-us"
