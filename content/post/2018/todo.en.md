@@ -18,7 +18,7 @@ TODOs to make it work!:
 - [x] Multilanguage support
 - [x] Migrate JP blog posts from the original site
  - [ ] Format old posts
-- [ ] CNAME
+- [x] CNAME
 - [ ] CloudFront
 - [ ] SSL
 - [ ] Build Automation
