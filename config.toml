@@ -7,6 +7,7 @@ preserveTaxonomyNames = true
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 metaDataFormat = "toml"
+googleAnalytics = "UA-123-45"
 
 [permalinks]
 post = "posts/:year/:month/:day/:filename/"
@@ -24,7 +25,7 @@ category = "categories"
 tag = "tags"
 
 [params]
-#google_analytics_id = ""
+google_analytics_id = "UA-48020408-1"
 twitter_username = "yuseinishiyama"
 #disqus_shortname = ""
 paginate = 5
