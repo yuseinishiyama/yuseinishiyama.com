@@ -1,6 +1,7 @@
 +++
 title = "Objective-Cで文字列定数"
 date = "2013-06-02"
+tags = ["Programming"]
 +++
 
 Objective-Cで文字列定数の宣言をする方法について考えてみた。  

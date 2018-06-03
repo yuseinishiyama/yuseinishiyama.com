@@ -1,6 +1,7 @@
 +++
 title = "SICP 3.1.2 The Benefits of Introducing Assignment"
 date = "2013-12-19"
+tags = ["Programming"]
 +++
 
 代入の効用について説明するだけにしては、Ex 3.5.

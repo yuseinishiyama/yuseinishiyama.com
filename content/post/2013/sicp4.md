@@ -1,6 +1,7 @@
 +++
 title = "SICP 第2章「Building Abstractions with Data」【後編】"
 date = "2013-12-08"
+tags = ["Programming"]
 +++
 
 後半はGeneric Procedure関する解説。

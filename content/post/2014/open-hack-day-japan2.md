@@ -1,6 +1,7 @@
 +++
 title = "Open Hack Day Japan 2に参加してきた。 "
 date = "2014-02-19"
+tags = ["Programming"]
 +++
 
 # はじめに

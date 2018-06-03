@@ -1,6 +1,7 @@
 +++
 title = "EmacsでSchemeの自動補完を行う。"
 date = "2013-12-01"
+tags = ["Programming"]
 +++
 
 環境構築に手間をかけたくない質なので、最初はDrRacketを利用してSchemeのコードを書いていた。

@@ -1,6 +1,7 @@
 +++
 title = "動画に対する顔検出"
 date = "2013-12-24"
+tags = ["Programming"]
 +++
 
 (この投稿はQiitaの[iOS Second Stage Advent Calendar

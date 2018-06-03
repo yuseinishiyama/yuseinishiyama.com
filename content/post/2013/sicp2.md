@@ -1,6 +1,7 @@
 +++
 title = "SICP 第1章「Building Abstractions with Procedures」を読み終えて。(後編)"
 date = "2013-10-27"
+tags = ["Programming"]
 +++
 
 [(前編はこちら)][]

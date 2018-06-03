@@ -1,6 +1,7 @@
 +++
 title = "SICP 第1章「Building Abstractions with Procedures」を読み終えて。(前編)"
 date = "2013-10-27"
+tags = ["Programming"]
 +++
 
 [先日の投稿「代替不可能なプログラマとは。」][代替不可能なプログラマとは。]にある通り、SICPを読み始め、先日第1章「Building

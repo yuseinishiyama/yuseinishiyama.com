@@ -1,6 +1,7 @@
 +++
 title = "Raspberry Piのセットアップ(NOOBS)。"
 date = "2013-08-31"
+tags = ["Programming"]
 +++
 
 購入してからしばらく放置していたRaspberry Piをセットアップしてみる。

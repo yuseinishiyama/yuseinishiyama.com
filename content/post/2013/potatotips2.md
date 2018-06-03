@@ -1,6 +1,7 @@
 +++
 title = "第2回potatotipsに参加してきた。"
 date = "2013-12-12"
+tags = ["Programming"]
 +++
 
 [第2回potatotipsに][]参加し、発表してきた。  

@@ -1,6 +1,7 @@
 +++
 title = "きっと、うまくいく"
 date =  "2013-08-19"
+tags = ["Introspection", "Movie"]
 +++
 
 映画『きっと、うまくいく(3idiots)』を見た。

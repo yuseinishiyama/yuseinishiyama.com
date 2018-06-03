@@ -1,6 +1,7 @@
 +++
 title = "外国語学習とプログラミング"
 date = "2014-04-30"
+tags = ["English", "Programming"]
 +++
 
 # はじめに。

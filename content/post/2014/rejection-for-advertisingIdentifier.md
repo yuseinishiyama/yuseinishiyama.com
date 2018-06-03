@@ -1,6 +1,7 @@
 +++
 title = "advertisingIdentifierが原因のリジェクトに対応する。"
 date = "2014-02-12"
+tags = ["Programming"]
 +++
 
 # 概要

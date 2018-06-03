@@ -1,6 +1,7 @@
 +++
 title = "否定すること"
 date = "2014-05-05"
+tags = ["Introspection"]
 +++
 
 # 中途半端な否定

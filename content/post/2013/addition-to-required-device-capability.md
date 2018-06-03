@@ -1,6 +1,7 @@
 +++
 title = "UnityでiOS向けのビルド時に、RequiredDeviceCapabilityを追加する方法。"
 date = "2013-09-07"
+tags = ["Programming"]
 +++
 
 [RequiredDeviceCapability][]を正しく設定していないと、Appleにリジェクトされてしまうことは、広く知られている。

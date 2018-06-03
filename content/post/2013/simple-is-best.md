@@ -1,6 +1,7 @@
 +++
-title = "Simple is best. "
+title = "Simple is best."
 date = "2013-05-21"
+tags = ["Music", "Introspection"]
 +++
 
 特別飾らず、

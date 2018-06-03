@@ -1,6 +1,7 @@
 +++
 title = "第1回 Swift LT会で発表しました"
 date = "2014-06-25"
+tags = ["Programming"]
 +++
 
 # はじめに
