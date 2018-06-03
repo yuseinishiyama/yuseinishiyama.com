@@ -6,7 +6,8 @@ tags = ["English"]
 
 # 機械の人間性
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_ldoV5FQn0k?rel=0&amp;start=79" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+{{< youtube _ldoV5FQn0k 79>}}
 
 Google Assistantの進化が一躍ニュースとなり、機械が発する"Mm-hmm"に人々は湧いた。この冗長さに我々は一瞬、機械の人間性を垣間見たのである。
 
@@ -38,7 +39,7 @@ Google Assistantの進化が一躍ニュースとなり、機械が発する"Mm-
 
 次のシーンは"Smoke and Mirrors"から。Mossはアブラカダブラという名前のブラジャーを発明し、同僚とともにDragon's Denに出演するが、特殊な素材を使用していたためにブラジャーが発火してしまう。プレゼンは大失敗に終わるがRoyは"We are looking for £400,000 at two per cent"と、それでも果敢に金銭を要求する。ちなみに、[Dragon's Den](https://en.wikipedia.org/wiki/Dragons%27_Den)というのは、日本の「マネーの虎」のフォーマットが海外で広まったものである。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oEfQFD0NMJQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube oEfQFD0NMJQ >}}
 
 緊張して同じことを何度も繰り返し話してしまうということは誰しもあるが、英語のステレオタイプがどんな感じになるのか知れるのも面白い。
 
@@ -54,7 +55,7 @@ Google Assistantの進化が一躍ニュースとなり、機械が発する"Mm-
 
 9シーズンもあるため、紹介するシーンの選定が非常に難しいが、2人の関係性をうかがい知ることができる以下のシーンを第2話"The Interview"から選んだ。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DkYHNO2vNG4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube DkYHNO2vNG4 >}}
 
 Markは、Jeremyに家賃を払わせるため、自分が働く会社の面接を受けさせる。一方、Jeremyはミュージシャンとしてのキャリアを諦めておらず、この仕事に全く興味が無い。
 
@@ -72,7 +73,7 @@ Markは、Jeremyに家賃を払わせるため、自分が働く会社の面接�
 
 [POV(point-of-view)](https://en.wikipedia.org/wiki/Point-of-view_shot)と呼ばれる一人称視点のカメラワークの多用と、登場人物の心の声のボイスオーバーがこの作品をより一層ユニークにしている。POVに関しては相当な苦労があったようだ。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_3anx_91rsk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube _3anx_91rsk >}}
 
 # Mitchell and Webb Look
 
@@ -82,7 +83,7 @@ Peep Showの主人公を演じる[David Mitchell](https://en.wikipedia.org/wiki/
 
 この結婚式のスケッチにはDavid Mitchellの魅力が詰まっている。人間にとって不都合な現実を理屈っぽいフレーズで畳み掛けるのは、彼が最も得意とするスタイルだ。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yRdTlf-9hng?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube yRdTlf-9hng >}}
 
 友人代表として結婚式のスピーチをするが、新郎が新婦のことを「世界一美しい」と言ったことに対し終始突っかかる。
 
@@ -102,7 +103,7 @@ Peep Showの主人公を演じる[David Mitchell](https://en.wikipedia.org/wiki/
 
 次のシーンはSeason 2の最終話、"Interview"の冒頭から。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J8HsAZnzTUA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube J8HsAZnzTUA >}}
 
 解雇通告を受けたことに対しDavidはポジティブな反応を見せる。
 
@@ -142,7 +143,7 @@ Peep ShowやThe Officeに代表されるようなアクの強い笑いではな�
 
 次の動画は、最初のエピソード"Good Luck, Father Ted"から。冒頭、Tedは僻地の司祭を取り上げるテレビ番組の取材オファーを受ける。自分だけが出演したいTedは、DougalとJackに隠れて撮影現場に赴く。しかし、そこは移動式遊園地の会場となっていて、DougalとJackに鉢合わせしてしまう。結局、テレビリポーターはDougalをTedと勘違いして取材し、彼の無茶苦茶な言動がTedのものとして放送されてしまう。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MUV00NSQT9E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube MUV00NSQT9E >}}
 
 この作品の醍醐味はなんといっても、その間抜けな島の様子の描かれ方である。この遊園地の催し物は、"Freak Pointing"、"The Ladder"、"Spinning Cat"など、全くもってくだらない物ばかりだが島民がこぞって押し寄せている。話の肝である、この島の退屈さと知的水準の低さを一瞬で伝える重要なシーンだ。
 
@@ -158,7 +159,7 @@ Alanは、無能であるにも関わらず、自信過剰で他人の気持ち�
 
 次のシーンは"To Kill A Mocking Alan"から。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/72BrqGNvaT0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube 72BrqGNvaT0 >}}
 
 Alanは2人のアイルランド人のTVプロデューサーに自分を売り込もうとするが、彼らを不快にする発言を続けてしまう。ちなみに、この2人を演じているのは、The IT Crowdの作家であるGraham Linehanと[Arthur Mathews](https://en.wikipedia.org/wiki/Arthur_Mathews_(writer))である。
 
@@ -196,7 +197,7 @@ Alanは2人のアイルランド人のTVプロデューサーに自分を売り�
 
 次は、口汚い会話をやめるように頼まれたMalcolmが、さらなる暴言で応酬するほんの短いシーン。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i93-u39XV7I?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube i93-u39XV7I >}}
 
 > A Man from another office: I'm sorry, can you stop swearing please?
 
