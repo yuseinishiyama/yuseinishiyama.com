@@ -55,7 +55,7 @@ Google Assistantの進化が一躍ニュースとなり、機械が発する"Mm-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DkYHNO2vNG4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Markは、Jeremyに家の家賃を払わせるため、自分が働く会社の面接を受けさせる。一方、Jeremyはミュージシャンとしてのキャリアを諦めておらず、この仕事に全く興味が無い。
+Markは、Jeremyに家賃を払わせるため、自分が働く会社の面接を受けさせる。一方、Jeremyはミュージシャンとしてのキャリアを諦めておらず、この仕事に全く興味が無い。
 
 > Jeremy: I'm looking for something more relaxing.
 
