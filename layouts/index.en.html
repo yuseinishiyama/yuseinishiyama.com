@@ -1,0 +1,4 @@
+{{ range where .Data.Pages "Title" "About" }}
+    {{ .Render "single" }}
+{{ end }}
+
