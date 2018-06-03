@@ -7,7 +7,7 @@ TODOs to make it work!:
 
 - [x] Scaffolding
 - [x] Remove unused contents
-- [ ] Tags and categories
+- [x] Tags and categories
 - [ ] Social links
  - [ ] GitHub
  - [ ] LinkedIn
