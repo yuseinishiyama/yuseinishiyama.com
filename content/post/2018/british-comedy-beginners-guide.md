@@ -4,8 +4,7 @@ date = 2018-05-20T14:55:57+01:00
 tags = ["English"]
 +++
 
-# 機械の人間性
-
+## 機械の人間性
 
 {{< youtube _ldoV5FQn0k 79>}}
 
@@ -13,7 +12,7 @@ Google Assistantの進化が一躍ニュースとなり、機械が発する"Mm-
 
 文頭に「お疲れ様です」と書かれたメールが届く。コミュニケーションの達成という面では、この一文は冗長である。しかし、この人の人間性を慮るという点では情報量を持っている。社会範例に従うことに重きをおいているのかもしれない。はたまた単に受信者である僕との距離感を感じているのかもしれない。
 
-# 第二言語と人格
+## 第二言語と人格
 
 イギリスに移り住んで1年と5ヶ月がすぎようとしている。伝えたいことを伝えるのにほとんど不自由はなくなってきた。だが、コミュニケーションにまつわるフラストレーションは尽きない。なぜか。母語での人間性を再現できないからである。道具として習得した言語である以上、その表現や語彙は具体的な目的を達成するためのものに限定されている。しかし、先に述べたように、人間性というのはコミュニケーションの冗長な部分に宿る。冗長であるということは、選択肢があるということだ。日本語であれば、語彙、句読点の位置、文章の構成、その全てが自分の人間性を伝えるための選択である。しかし、英語では自分の使う言葉が果たして自分らしさを持っているのか計り知ることができない。Whatに関しては選択肢があっても、Howに関してはほとんど選択肢がない。
 
@@ -29,11 +28,11 @@ Google Assistantの進化が一躍ニュースとなり、機械が発する"Mm-
 
 入門と謳っているので、ここでは[Monty Python](https://en.wikipedia.org/wiki/Monty_Python)、[Fawlty Towers](https://en.wikipedia.org/wiki/Fawlty_Towers)、[Blackadder](https://en.wikipedia.org/wiki/Blackadder)のような古典には触れず、1990年代以降の比較的モダンなものだけを紹介する。
 
-# The IT Crowd
+## The IT Crowd
 
 (難易度: ★☆☆☆☆)
 
-入門用にぜひともオススメしたいのがこの作品である。ブリティッシュな要素が少なく、その分、前提知識無しで楽しめる。分かりやすいLaugh trackがついているので、笑いのポイントも分かりやすい。
+入門用にぜひともオススメしたいのがこの作品である。イギリス特有の要素が少なく、その分、前提知識無しで楽しめる。Laugh trackがついているので、笑いのポイントも分かりやすい。
 
 舞台は、Reynholm Industriesという架空の会社。そのIT課で働くMaurice MossとRoy Trennemanの元に、ITに関する知識の一切ないJen Barberがマネージャーとして着任するところからストーリーは始まる。
 
@@ -45,7 +44,7 @@ Google Assistantの進化が一躍ニュースとなり、機械が発する"Mm-
 
 > Jen: Women in the workplace... Women working in a workplace environment, work in workplaces, where they work and as a woman, as a worker, as a women worker who works in workplaces... sorry a bit of asthma.
 
-# Peep Show 
+## Peep Show
 
 (難易度: ★★☆☆☆)
 
@@ -69,17 +68,17 @@ Markは、Jeremyに家賃を払わせるため、自分が働く会社の面接�
 
 > Jeremy: [voiceover] Shit, my natural bloody charm is swinging in it. Got to do something.
 
-面接官はJeremyの受け答えに落胆の色を隠せないが、本人は自分の受け答えが完璧でこのままで面接に受かってしまうと考え、あえて変な顔をして不合格になろうとする。最後には面接官をマルチ商法のターゲットにしようとして、Jeremyを紹介したMarkの面目を丸潰しにしていまう。
+面接官はJeremyの受け答えに落胆の色を隠せないが、本人は自分の受け答えが完璧でこのままでは面接に受かってしまうと考え、あえて変な顔をして不合格になろうとする。最後には面接官をマルチ商法のターゲットにしようとして、Jeremyを紹介したMarkの面目を丸潰しにしていまう。
 
 [POV(point-of-view)](https://en.wikipedia.org/wiki/Point-of-view_shot)と呼ばれる一人称視点のカメラワークの多用と、登場人物の心の声のボイスオーバーがこの作品をより一層ユニークにしている。POVに関しては相当な苦労があったようだ。
 
 {{< youtube _3anx_91rsk >}}
 
-# Mitchell and Webb Look
+## Mitchell and Webb Look
 
 (難易度: ★★☆☆☆)
 
-Peep Showの主人公を演じる[David Mitchell](https://en.wikipedia.org/wiki/David_Mitchell_(comedian))と[Robert Webb](https://en.wikipedia.org/wiki/Robert_Webb)による、スケッチ・コメディ。コンテキストが難しめのものも多いが、分からなくても飛ばして次のを見れば良いところがスケッチ・コメディの良いところ。
+Peep Showの主人公を演じる[David Mitchell](https://en.wikipedia.org/wiki/David_Mitchell_(comedian))と[Robert Webb](https://en.wikipedia.org/wiki/Robert_Webb)による、スケッチ・コメディ。コンテキストが難しいものも多いが、分からないものはスキップできるのがスケッチ・コメディの良いところ。
 
 この結婚式のスケッチにはDavid Mitchellの魅力が詰まっている。人間にとって不都合な現実を理屈っぽいフレーズで畳み掛けるのは、彼が最も得意とするスタイルだ。
 
@@ -91,13 +90,13 @@ Peep Showの主人公を演じる[David Mitchell](https://en.wikipedia.org/wiki/
 
 新郎は新婦の客観的な魅力とは関係なく彼女に惚れてしまったのであり、二人の人間が互いの好みを騙し合うのが恋愛である。新郎をはじめとして、ここにいる全員が彼女が世界一美しい女性でないことを知っているはずだ、と力説し会場を混乱させる。
 
-# The Office
+## The Office
 
 (難易度: ★★★☆☆)
 
 このあたりから、ブリティッシュコメディならではセンスが色濃くなる。テーマは"awkward"。見ていてゾワッとする気まずい瞬間を楽しむのはイギリスのコメディでは比較的よくあるスタイルだが、日本ではあまり見かけない。共感性羞恥などどこ吹く風だ。
 
-登場人物は誰も笑わない。なぜなら彼らにとっては不快な体験でしかないからだ。第三者としてそれを客観的に目撃する我々にとってのみ、それが「笑い」となる。誰も笑わないため、仔細が分からなければどこが笑いのポイントなのか分からず、それゆえにある程度の英語力が要求される。
+登場人物は誰も笑わない。なぜなら彼らにとっては不快な体験でしかないからだ。第三者としてそれを客観的に目撃する我々にとってのみ、それが「笑い」となる。誰も笑わないため、仔細が分からなければ笑いのポイントを見失ってしまう。それゆえにある程度の英語力が要求される。
 
 本作はWernham Hogg Paper Companyの[Slough](https://goo.gl/maps/RWfJLBXDz8M2)支社で働く従業員をフィーチャーした架空のドキュメンタリーという体をとっている。ちなみにこのようなドキュメンタリー風のスタイルのことを[Mockumentary](https://en.wikipedia.org/wiki/Mockumentary)と呼ぶ。主人公は[Ricky Gervais](https://en.wikipedia.org/wiki/Ricky_Gervais)演じるゼネラルマネージャーの[David Brent](https://en.wikipedia.org/wiki/David_Brent)。彼は自分のことを、知的で魅力的なユーモアに溢れた人気者と思い込んでいるが、実際はその真逆である。彼の主観的な評価と客観的な評価の齟齬が周りを不快な気持ちにさせる。
 
@@ -121,7 +120,7 @@ Peep Showの主人公を演じる[David Mitchell](https://en.wikipedia.org/wiki/
 
 > Jamie: Sorry, can I just get that?
 
-# Extras
+## Extras
 
 (難易度: ★★★☆☆)
 
@@ -133,11 +132,11 @@ Peep Showの主人公を演じる[David Mitchell](https://en.wikipedia.org/wiki/
 
 名作の一つではあるが、各回に著名人が本人として登場するという性質上、英語圏のエンタメ事情に詳しくないと100%楽しむことができない。Ricky Gervais作品としては、まずThe Officeのほうをおすすめする。
 
-# Father Ted
+## Father Ted
 
 (難易度: ★★★☆☆)
 
-Peep ShowやThe Officeに代表されるようなアクの強い笑いではなく、ドタバタ喜劇。The IT Crowdに近いが、それもそのはずで作家が同じアイルランド人の[Graham Linehan](https://en.wikipedia.org/wiki/Graham_Linehan)。同じくブリティッシュコメディと括られるが、イギリスとアイルランドでは笑いの質が異なるようだ。
+Peep ShowやThe Officeに代表されるようなアクの強い笑いではなく、ドタバタ喜劇。The IT Crowdに近いが、それもそのはずで作家が同じアイルランド人の[Graham Linehan](https://en.wikipedia.org/wiki/Graham_Linehan)。同じブリティッシュコメディと括られるが、イギリスとアイルランドでは笑いの質が異なるようだ。
 
 舞台はアイルランドの架空の島Craggy Island。主な登場人物はこの島に追放された3人のカトリックの司祭、Ted Crilly、Dougal McGuire、Jack Hackett。島の住人も含め、Ted以外は皆「異常に」まぬけであり、そのためにTedは色々なトラブルに巻き込まれる。
 
@@ -145,23 +144,23 @@ Peep ShowやThe Officeに代表されるようなアクの強い笑いではな�
 
 {{< youtube MUV00NSQT9E >}}
 
-この作品の醍醐味はなんといっても、その間抜けな島の様子の描かれ方である。この遊園地の催し物は、"Freak Pointing"、"The Ladder"、"Spinning Cat"など、全くもってくだらない物ばかりだが島民がこぞって押し寄せている。話の肝である、この島の退屈さと知的水準の低さを一瞬で伝える重要なシーンだ。
+この作品の醍醐味はなんといっても、その間抜けな島の様子の描かれ方である。この遊園地の催し物は、"Freak Pointing"、"The Ladder"、"Spinning Cat"など、全くもってくだらない物ばかりだが島民がこぞって押し寄せている。話の肝であるこの島の退屈さと知的水準の低さを視聴者に一瞬で伝える重要なシーンだ。
 
-明瞭な笑いだが、アイルランド英語を終始聴くことになるため聞き取りが難しく難易度を中とした。
+明瞭な笑いだが、アイルランド英語を終始聴くことになるため聞き取りが難しく難易度を星3つとした。
 
-# I'm Alan Partrige
+## I'm Alan Partrige
 
 (難易度: ★★★★☆)
 
-主人公でTV・ラジオパーソナリティの[Alan Partridge](https://en.wikipedia.org/wiki/Alan_Partridge)は、その低い評判のため、TV番組を降板させられる。[Norwich](https://goo.gl/maps/FgkPAQ3wX9L2)のラジオ局で早朝の番組を担当しながら、テレビ界に復活しようと試みる。
+主人公でTV・ラジオパーソナリティの[Alan Partridge](https://en.wikipedia.org/wiki/Alan_Partridge)は、その低い評判のため、TV番組を降板させられる。シリーズ1では、そのAlanが[Norwich](https://goo.gl/maps/FgkPAQ3wX9L2)のラジオ局で早朝の番組を担当しながら、テレビ界に復活しようと奮闘する。
 
-Alanは、無能であるにも関わらず、自信過剰で他人の気持ちが分からず、それゆえに残念な生活を送っている。The Officeをはじめとして、イギリス人は不快なキャラクターを生み出す天才である。非現実的なキャラクターではなく、実際に人間が持つ嫌な部分を凝縮したようなリアルな不快さがある。
+Alanは、無能であるにも関わらず、自信過剰で他人の気持ちが分からず、それゆえに残念な生活を送っている。The Officeをはじめとして、イギリス人は「イヤなヤツ」生み出す天才である。非現実的なキャラクターではなく、実際に人間が持つ嫌な部分を凝縮したようなリアルな不快さがある。
 
 次のシーンは"To Kill A Mocking Alan"から。
 
 {{< youtube 72BrqGNvaT0 >}}
 
-Alanは2人のアイルランド人のTVプロデューサーに自分を売り込もうとするが、彼らを不快にする発言を続けてしまう。ちなみに、この2人を演じているのは、The IT Crowdの作家であるGraham Linehanと[Arthur Mathews](https://en.wikipedia.org/wiki/Arthur_Mathews_(writer))である。
+Alanは2人のアイルランド人のTVプロデューサーに自分を売り込もうとするが、彼らを不愉快にする発言を続けてしまう。ちなみに、この2人を演じているのは、The IT Crowdの作家であるGraham Linehanと[Arthur Mathews](https://en.wikipedia.org/wiki/Arthur_Mathews_(writer))である。
 
 > Aidan: Ever been to Ireland, Alan?
 
@@ -171,7 +170,7 @@ Alanは2人のアイルランド人のTVプロデューサーに自分を売り�
 
 > Alan: I think that's what puts me off.
 
-さらに会話を続けようとするが、どういうわけか[血の日曜日事件](https://ja.wikipedia.org/wiki/%E8%A1%80%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E4%BA%8B%E4%BB%B6_(1972%E5%B9%B4))や[ジャガイモ飢饉](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%AC%E3%82%A4%E3%83%A2%E9%A3%A2%E9%A5%89)などのネガティブな話題にばかり触れ、さらにそれらに関して軽率な発言を繰り返す。
+さらに会話を続けようとするが、どういうわけか[ジャガイモ飢饉](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%AC%E3%82%A4%E3%83%A2%E9%A3%A2%E9%A5%89)や[血の日曜日事件](https://ja.wikipedia.org/wiki/%E8%A1%80%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E4%BA%8B%E4%BB%B6_(1972%E5%B9%B4))やなどのネガティブな話題にばかり触れ、さらにそれらに関して軽率な発言を繰り返す。
 
 > Alan: So, how many people were killed in the Irish famine?
 
@@ -179,13 +178,13 @@ Alanは2人のアイルランド人のTVプロデューサーに自分を売り�
 
 > Alan: Right. If it was just the potatoes that were affected, at the end of the day, you will pay the price if you are a fussy eater. If they could afford to emigrate, then they could afford to eat in a modest restaurant.
 
-「疫病によって被害を受けたのはジャガイモだけであるから、飢餓に苦しむのは偏食家である」というジョークのつもりなのか、それとも単なる無知なのかは分からないが、不適切な発言をする(貧農の多くは実際にジャガイモに食料を依存していたわけで、もちろん決して偏食家だったわけではない)。
+「疫病によって被害を受けたのはジャガイモだけであるから、飢餓に苦しむのは偏食家である」というジョークのつもりなのか、それとも単なる無知なのかはともかく、不謹慎な発言をして2人を面食らわせる(貧農の多くは実際にジャガイモに食料を依存していたわけで、もちろん決して偏食家だったわけではない)。
 
 途中のAlanの妄想シーンでは、2人は銃を持ち黒いベレー帽をかぶっている。これは[アイルランド共和軍(IRA)](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E5%85%B1%E5%92%8C%E8%BB%8D)を暗示していると思われ、ここでも、Alanのアイルランド人に対する短絡的なイメージが顕になる。同様に、英語圏のコメディではナチスやKKKのような負の遺産がしばしばジョークのために参照されるが、臭いものに蓋をする傾向のある日本のテレビコンテンツに慣れている我々からするととてもショッキングである。
 
 ストーリーラインは複雑ではないものの、Alanの独特のユーモアのセンスとボキャブラリーのせいか比較的難しく感じる。
 
-# The Thick of It
+## The Thick of It
 
 (難易度: ★★★★★)
 
@@ -193,7 +192,7 @@ Alanは2人のアイルランド人のTVプロデューサーに自分を売り�
 
 イギリス政府の内政を風刺した作品で、それぞれの部門は様々なスキャンダルの対応に追われるが、その不適切な対応のため事態は一層深刻化していく。各々がひたすら互いに罵り合う罵詈雑言の宝庫で、一生分のSwear Wordを聞くことができる。普通の人は数秒ごとに辞書を引くことになるだろう。
 
-この作品を象徴するのは、なんといっても[Peter Capaldi](https://en.wikipedia.org/wiki/Peter_Capaldi)演じるMalcolm Tuckerである。極度な短気であり、大声で暴言を吐き人々を丸め込む。
+この作品を象徴するのは、なんといっても[Peter Capaldi](https://en.wikipedia.org/wiki/Peter_Capaldi)演じる[Malcolm Tucker](https://en.wikipedia.org/wiki/Malcolm_Tucker)である。極度な短気であり、大声で暴言を吐き人々を丸め込む。
 
 次は、口汚い会話をやめるように頼まれたMalcolmが、さらなる暴言で応酬するほんの短いシーン。
 
@@ -207,11 +206,13 @@ Alanは2人のアイルランド人のTVプロデューサーに自分を売り�
 
 イギリス政治に関する多少の理解が必要なのと、日常では聞くことのない不適切表現の嵐のため、かなり難しいのではないだろうか。
 
-# テレビとカタルシス
+----
+
+## テレビとカタルシス
 
 はじめは軽い気持ちで見始めたコメディだったが、そのクオリティの高さに心を打たれた。そして、日本のテレビコンテンツでこうした感情になったことがないことに少しがっかりした。
 
-戦争、差別、性的倒錯。そこには日本のフィクションでは決して見ることのできない、人間の恐ろしく低俗な部分が広がっていた。社会的な活動を維持するためのルールと個々人の素朴な感情というの往々にして一致しない。ここで描かれているのは、我々誰もが感じる、しかし、日常ではとても口にできない感情を露わにし、結果として人々を混乱に巻き込む人間の姿だ。社会的な存在でいるために、我々が禁止されていることを、代わりにやってくれる人々の姿だ。この国のテレビではアリストテレスの説いた、[カタルシス](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%AB%E3%82%B7%E3%82%B9)がまだ機能しているのだ。
+戦争、差別、性的倒錯。そこには日本のフィクションでは決して見ることのできない、人間の恐ろしく低俗な部分が広がっていた。社会的な活動を維持するためのルールと個々人の素朴な感情というの往々にして一致しない。ここで描かれているのは、我々誰もが感じる、しかし、日常ではとても口にできない感情を露わにし、結果として人々を混乱に巻き込む人間の姿だ。社会的な存在でいるために、我々が禁止されていることを代わりにやってくれる人々の姿だ。この国のテレビではアリストテレスの説いた、[カタルシス](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%AB%E3%82%B7%E3%82%B9)がまだ機能しているのだ。
 
 > カタルシス（〈ギリシャ〉katharsis）
 
