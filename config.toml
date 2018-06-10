@@ -1,4 +1,4 @@
-baseurl = "http://yuseinishiyama.com"
+baseurl = "https://yuseinishiyama.com"
 title = "yuseinishiyama.com"
 theme = "hugo-theme-pixyll"
 languageCode = "en-us"
