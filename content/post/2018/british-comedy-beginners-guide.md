@@ -106,7 +106,7 @@ Peep Showの主人公を演じる[David Mitchell](https://en.wikipedia.org/wiki/
 
 解雇通告を受けたことに対しDavidはポジティブな反応を見せる。
 
-> You know, I can't imagine Jusus going, "Oh, I've told a few people here in Bethlehem I'm the son of God. Can I just stay with mum and dad now?" No, you've got to move on. You've got to spread the world. You know, you've got to go to Nazareth, please. And that's very much like me.
+> You know, I can't imagine Jesus going, "Oh, I've told a few people here in Bethlehem I'm the son of God. Can I just stay with mum and dad now?" No, you've got to move on. You've got to spread the world. You know, you've got to go to Nazareth, please. And that's very much like me.
 
 傲慢にも自分をイエス・キリストと比較し、彼が両親から離れてベツレヘムからナザレに行かなければならなかったように、自分もここSloughを離れなければいけないという。
 
@@ -200,7 +200,7 @@ Alanは2人のアイルランド人のTVプロデューサーに自分を売り�
 
 > A Man from another office: I'm sorry, can you stop swearing please?
 
-> Malcolm Tucker: I'm really sorry, you won't hear any more swearing from us, YOU MASSIVE, GAY SHITE! FUCK OFF!
+> Malcolm: I'm really sorry, you won't hear any more swearing from us, YOU MASSIVE, GAY SHITE! FUCK OFF!
 
 ちなみにshiteというのはshitという同じ意味らしいがイギリス特有のスラングだ。
 
