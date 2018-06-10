@@ -22,3 +22,5 @@ TODOs to make it work!:
 - [x] CloudFront
 - [x] SSL
 - [ ] Build Automation
+- [ ] Subdomain support
+- [ ] Move domain from netowl to aws
