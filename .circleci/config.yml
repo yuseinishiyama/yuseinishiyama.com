@@ -16,9 +16,9 @@ jobs:
       - run:
           name: test generated HTML files
           command: |
-            htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
+            htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - deploy:
           name: deploy to AWS
           command: |
-            aws s3 sync $HUGO_BUILD_DIR s3://yuseinishiyama.com/ --delete
+            aws s3 sync public/ s3://yuseinishiyama.com/ --delete
             aws cloudfront create-invalidation --distribution-id E2ZSKIG64S32BE --paths '/*'
