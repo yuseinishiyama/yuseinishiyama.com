@@ -7,7 +7,11 @@ jobs:
     steps:
       - checkout
       - run: git submodule sync && git submodule update --init
-      - run: pip install awscli
+      - run:
+          name: install AWS CLI
+          command: |
+            apk add --update python python-dev py-pip build-base
+            pip install awscli
       - run: HUGO_ENV=production hugo -v
       - run:
           name: test generated HTML files
