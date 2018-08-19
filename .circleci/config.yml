@@ -16,7 +16,7 @@ jobs:
       - run:
           name: test generated HTML files
           command: |
-            htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+            htmlproofer public --allow-hash-href --empty-alt-ignore --disable-external
       - deploy:
           name: deploy to AWS
           command: |
