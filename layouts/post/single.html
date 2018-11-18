@@ -13,6 +13,8 @@
       {{ .Content }}
       </article>
 
+      {{ partial "share.html" . }}
+
       <p class="post-meta">{{ i18n "tags" }}:&nbsp;
         {{ range $i, $e := .Params.tags }}
             {{if $i}},&nbsp;{{end}}
