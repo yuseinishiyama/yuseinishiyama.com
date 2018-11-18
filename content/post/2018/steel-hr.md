@@ -1,9 +1,10 @@
 +++
 title = "Steel HR購入"
 date = 2018-11-18T15:58:03Z
+eyecatch = "/img/steel-hr.png"
 +++
 
-[Withings Steel HR](https://www.withings.com/uk/en/steel-hr)を買った。
+[Withings Steel HR](https://www.withings.com/uk/en/steel-hr)を買った。
 
 {{< figure src="/img/steel-hr.png" caption="一時期WithingsはNokia傘下にあったため流通している同製品の多くは未だにNokiaのロゴを冠している" >}}
 

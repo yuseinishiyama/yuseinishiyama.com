@@ -10,6 +10,14 @@
   <meta name="keywords" content="">
   <link rel="canonical" href="{{ .Permalink }}">
 
+  <meta name="twitter:card" content="summary" />
+  <meta name="og:title" content="{{ .Title }}" />
+  <meta name="og:description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+  <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}" />
+  <meta name="twitter:url" content="{{ .Permalink }}" />
+  <meta name="twitter:site" content="@yuseinishiyama" />
+  <meta name="twitter:creator" content="@yuseinishiyama" />
+
   <!-- Custom CSS -->
   <!-- Those css minifined and combined together. See combined-min.css below
   <link rel="stylesheet" type="text/css" href="/css/basscss.css">
