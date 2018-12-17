@@ -2,6 +2,7 @@
 title: "Sennheiser Momentum True Wireless"
 date: 2018-12-10T23:17:48Z
 tags: ["Music"]
+eyecatch: "/img/sennheiser-momentum-true-wireless.png"
 ---
 
 Momentum True Wireless（以下、単にMomentumとする。）は、今年のIFA（国際コンシューマ・エレクトロニクス展）でSennheiserが発表した完全独立型のワイヤレスイヤホンである。
