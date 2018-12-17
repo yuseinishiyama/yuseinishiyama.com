@@ -8,6 +8,7 @@ defaultContentLanguage = "ja"
 hasCJKLanguage = true
 metaDataFormat = "toml"
 disqusShortname = "yuseinishiyama"
+enableRobotsTXT = true
 
 [permalinks]
 post = "posts/:year/:month/:day/:filename/"
