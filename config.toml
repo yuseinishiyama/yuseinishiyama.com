@@ -9,6 +9,7 @@ hasCJKLanguage = true
 metaDataFormat = "toml"
 disqusShortname = "yuseinishiyama"
 enableRobotsTXT = true
+canonifyURLs = true
 
 [permalinks]
 post = "posts/:year/:month/:day/:filename/"
