@@ -16,6 +16,7 @@ When I'm not coding, I'm spending some time listening to and making music. You c
 
 ## Talks
 
+- [Continuous Mobile App Delivery](https://speakerdeck.com/yuseinishiyama/continuous-mobile-app-delivery), MobOS, Cluj-Napoca, Romania
 - [Building iOS apps at scale](https://academy.realm.io/posts/yusei-nishiyama-mobilization-2017-building-ios-apps-at-scale/), Mobilization, Łódź, Poland
 - [Working at scale - How to save time with CI and build time reduction](https://www.youtube.com/watch?v=XLFQ40EqG64), FrenchKit, Paris, France
 - [Building iOS apps at scale](https://speakerdeck.com/yuseinishiyama/building-ios-apps-at-scale), iOSDevUK, Aberystwyth, UK
