@@ -1,6 +1,6 @@
 ## **Yusei Nishiyama**
 
-**Address**: 58 Deanery Road, Bristol, UK, BS1 5AF **Phone**: +44 7454 037600 **Email**: [allegllet.scherzand@gmail.com](allegllet.scherzand@gmail.com)
+**Address**: 58 Deanery Road, Bristol, UK, BS1 5AF **Phone**: +44 7454 037600 **Email**: [allegllet.scherzand@gmail.com](mailto:allegllet.scherzand@gmail.com)
 **Languages**: English (C1), Japanese (Native) **Links**: [LinkedIn](https://www.linkedin.com/in/yusei-nishiyama-6b45299b/), [GitHub](https://github.com/yuseinishiyama), [Personal Website](https://yuseinishiyama.com/en/), [Youtube](https://www.youtube.com/channel/UC7GpVLVXDUq_IYT9LctdY0g/videos)
 
 # Work Experience
@@ -32,7 +32,7 @@
 - [Reduce build times and get home eariler](https://speakerdeck.com/yuseinishiyama/reduce-build-times-and-get-home-eariler) at CodeMobile, Chester, UK
 
 # Publications
-- [Continuous iOS App Delivery](https://sourcediving.com/continuous-ios-app-delivery-1a158f1f3d33): A Medium post explaining how Cookpad iOS team enables frequent releases
+- [Continuous iOS App Delivery](https://sourcediving.com/continuous-ios-app-delivery-1a158f1f3d33): A Medium post explaining how Cookpad iOS team enables one-week release cycle
 - [Swift実践入門](https://www.amazon.co.jp/dp/4774187305): A Japanese book about how to write practical code in Swift
 
 # Education
