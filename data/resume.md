@@ -1,7 +1,7 @@
 ## **Yusei Nishiyama**
 
 **Address**: 58 Deanery Road, Bristol, UK, BS1 5AF **Phone**: +44 7454 037600 **Email**: [allegllet.scherzand@gmail.com](allegllet.scherzand@gmail.com)
-**Languages**: English (C1), Japanese (Native) **Links**: [LinkedIn](https://www.linkedin.com/in/yusei-nishiyama-6b45299b/), [GitHub](https://github.com/yuseinishiyama), [Personal Website](https://yuseinishiyama.com/en/)
+**Languages**: English (C1), Japanese (Native) **Links**: [LinkedIn](https://www.linkedin.com/in/yusei-nishiyama-6b45299b/), [GitHub](https://github.com/yuseinishiyama), [Personal Website](https://yuseinishiyama.com/en/), [Youtube](https://www.youtube.com/channel/UC7GpVLVXDUq_IYT9LctdY0g/videos)
 
 # Work Experience
 
