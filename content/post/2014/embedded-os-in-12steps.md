@@ -4,7 +4,7 @@ date = "2014-09-22"
 tags = ["Programming"]
 +++
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=usay0b-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4877832394" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=usay0b-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4877832394&linkId=4969fb7c03776e15a19d1e213d7c0546"></iframe>
 
 『12ステップで作る組込みOS自作入門』という本を読んだので、その内容や感想について書いてみる。
 
@@ -93,13 +93,13 @@ ELF形式を解析しメモリ上に展開するローダを作成した。
 
 コンピュータに関する包括的な知識が記述されている本ではじめて読んだのは『文系学生のためのコンピュータ概論』という本だった。
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=usay0b-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=432012278X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=usay0b-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=432012278X&linkId=6d394779c47d9b3b5ec1b8b2a96268f9"></iframe>
 
 これは、新卒で入った会社の研修の一環で読まされたのだが、なかなか良い本だった。「バベッジがあれした」とか「エニグマ暗号がどうだったとか」いう話から、OS、コンピュータの五大要素といったお約束の話が載っていて、今思うと大した内容ではないのだが、これを読んでなければジャババーチャルマシンの上で「Hello, World」やっているレイヤから一切出ようと思わなかったかもしれない。
 
 その後、もう少し利口になったところでパタヘネを読んだのだが、こっちは少し難しくて通読するというわけにはいかなかった。リファレンス的に使う分にはかなり役に立っているが。
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=usay0b-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=482228266X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=usay0b-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=482228266X&linkId=eb18aedc4f6c669b8ce34246f2472772"></iframe>
 
 ところで、このパタヘネのサブタイトルは『ハードウェアとソフトウェアのインターフェース』というものだが、この『組込みOS自作入門』もハードとソフトの狭間を見せてくれるという意味で、パタヘネの導入として良い本ではないかと思う。メモリマップドI/Oでのレジスタ・マッピング、割り込みベクタのアドレス、汎用レジスタの仕様などといったハードウェアの詳細を考えてプログラムを書くことで、まさに『ハードウェアのソフトウェアのインターフェース』を体感できる。
 

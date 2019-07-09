@@ -6,7 +6,7 @@ tags = ["English"]
 
 ## 機械の人間性
 
-{{< youtube _ldoV5FQn0k 79>}}
+{{< youtube 2V6NHKmfnW0 70>}}
 
 Google Assistantの進化が一躍ニュースとなり、機械が発する"Mm-hmm"に人々は湧いた。この冗長さに我々は一瞬、機械の人間性を垣間見たのである。
 
