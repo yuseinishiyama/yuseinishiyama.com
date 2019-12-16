@@ -10,8 +10,8 @@ jobs:
       - run:
           name: install AWS CLI
           command: |
-            apk add --update python python-dev py-pip build-base
-            pip install awscli
+            apt-get install -y python3-pip
+            pip3 install awscli
       - run: HUGO_ENV=production hugo -v
       - run:
           name: test generated HTML files
