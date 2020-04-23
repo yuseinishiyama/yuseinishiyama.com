@@ -1,7 +1,7 @@
 ---
 title: "Palm Phoneを買った"
 date: 2020-04-24T00:00:00+02:00
-eyecatch: "/img/steel-hr.png"
+eyecatch: "/img/palm-phone.jpg"
 ---
 
 新しいiPhone SEが出た。残念ながら、Appleに4インチのデバイスを復活させる勇気はないようだ。iPhone 7を大きいと思いながら使っていた私にとっては、いよいよiPhoneを手放すきっかけとなった。
