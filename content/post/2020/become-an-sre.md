@@ -3,13 +3,13 @@ title: "iOSからSREに転向した"
 date: 2020-05-10T03:55:00+02:00
 ---
 
-昨年7月にiOS EngineerとしてSoundCloudに入社したが、今年の4月からは同社でSREをしている。
+昨年7月にiOS Engineerとして[SoundCloudに入社した]({{< ref "join-soundcloud.md" >}})が、今年の4月からは同社でSREをしている。
 
 ## モバイルエンジニアのキャリア
 
 Software Engineerになって約8年、基本的にはずっとiOS Developerを名乗ってきた。そこそこ真面目にやった甲斐もあり、[国内外のカンファレンスで登壇したり](https://academy.realm.io/posts/yusei-nishiyama-mobilization-2017-building-ios-apps-at-scale/)、[書籍を執筆したり](https://www.amazon.co.jp/dp/B086VVQ3DJ)、[それなりの規模のプロジェクトでTech Leadをする](https://staffblog.cookpad.com/entry/2018/03/14/152346)機会に恵まれた。
 
-その一方で、長らく水平方向にスキルを伸ばしたいという思惑があり、[需要が高そうなSRE・ML・セキュリティ](https://www.oreilly.com/radar/oreilly-2020-platform-analysis/)あたりの分野を検討していた。その中でも特にSREが最もしっくりきたので、少し前からインフラ関連技術のキャッチアップをはじめていた。
+その一方で、長らく水平方向にスキルを伸ばしたいという思惑があり、[伸びそうなSRE・ML・セキュリティ](https://www.oreilly.com/radar/oreilly-2020-platform-analysis/)といった分野を検討していた。その中でも特にSREがしっくりきたので、少し前からインフラ関連技術のキャッチアップをはじめていた。
 
 {{< tweet 1212766180471164931 >}}
 
@@ -37,17 +37,17 @@ Software Engineerになって約8年、基本的にはずっとiOS Developerを�
 
 これはマジで良い。そこそこモダンな分散システムを触るならその日から使える知識の宝庫。
 
-### [AWS Solutions Architect（Associate）](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+### [AWS Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-前職で流行っていたので、通信空手などと揶揄されながらも取得してみたが、これのおかげでコンソールを触るのに抵抗がないし、チームメンバーが話している内容の文脈も理解できるので、結構役に立っていると思う。
+前職で流行っていたので、「通信空手」などと揶揄されながらも取得してみたが、おかげで抵抗なくコンソールが触れるし、チームメンバーが話している内容の文脈も理解できて、結構役に立っている。
 
 ### ネットワークの基礎
 
-モバイルエンジニアだと、L7がギリギリ、そこから下とDNSはほぼ無という人もいるのではないだろうか（自分だけか？）。[『ネットワークはなぜつながるのか』](https://www.amazon.co.jp/dp/4822283119)ぐらいの簡単なものでも目を通しておくとだいぶマシになる気がする。
+モバイルエンジニアだと、L7がギリギリ、そこから下とDNSはほぼ無という人もいるのではないだろうか（自分はそうだった）。[『ネットワークはなぜつながるのか』](https://www.amazon.co.jp/dp/4822283119)ぐらいの簡単なものでも目を通しておくとだいぶマシになる気がする。
 
 ### 社内のRunbook、Postmortemの過去ログ
 
-なんだかんだで社内固有のオペレーションをすることが多いと思うので、眺めておくとイメトレになる。
+なんだかんだで社内固有のオペレーションをすることが多いと思うので、眺めておくと良いイメトレになる。
 
 ### Kubernetes関連
 
@@ -55,4 +55,4 @@ Software Engineerになって約8年、基本的にはずっとiOS Developerを�
 
 ## おわりに
 
-シニアのモバイルエンジニアにとって、今はキャリア的に難しい局面にあると思う。技術の流行り廃りが激しい中、エンジニアが新しい分野に取り組む心理的安全性を担保できるような仕組みづくりが必要だろう。あと、オープンな技術で開発できるように、Appleにはより一層頑張って欲しい。
+シニアのモバイルエンジニアにとって、今はキャリア的に難しい局面にあると思う。技術の流行り廃りが激しい中、エンジニアが新しい分野に取り組む心理的安全性を担保するような仕組みが組織には必要かもしれない。それと、よりオープンで汎用的な技術で開発できるように、Appleには一層頑張って欲しい。
