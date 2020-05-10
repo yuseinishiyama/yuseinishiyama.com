@@ -11,7 +11,7 @@ Software Engineerになって約8年、基本的にはずっとiOS Developerを�
 
 その一方で、長らく水平方向にスキルを伸ばしたいという思惑があり、[需要が高そうなSRE・ML・セキュリティ](https://www.oreilly.com/radar/oreilly-2020-platform-analysis/)あたりの分野を検討していた。その中でも特にSREが最もしっくりきたので、少し前からインフラ関連技術のキャッチアップをはじめていた。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本音としては「モバイルのキャッチアップにかけるコストを最低限におさえて別のスキルを伸ばしたい」と思っていた自分にとってこの数年のiOS開発環境をとりまく大きな変化には複雑な気持ちがあるし、同じような境遇のシニアレベルのエンジニアはたくさんいるんじゃないだろうか</p>&mdash; Yusei Nishiyama 西山勇世 (@yuseinishiyama) <a href="https://twitter.com/yuseinishiyama/status/1212766180471164931?ref_src=twsrc%5Etfw">January 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1212766180471164931 >}}
 
 ## 転職、フルスタック化
 
