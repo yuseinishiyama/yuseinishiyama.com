@@ -1,6 +1,7 @@
 ---
 title: "iOSからSREに転向した"
 date: 2020-05-10T03:55:00+02:00
+tags: ["Programming"]
 ---
 
 昨年7月にiOS Engineerとして[SoundCloudに入社した]({{< ref "join-soundcloud.md" >}})が、今年の4月からは同社でSREをしている。

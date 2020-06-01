@@ -1,6 +1,7 @@
 ---
 title: "SoundCloudに転職した"
 date: 2019-12-17T00:00:00+01:00
+tags: ["Programming"]
 ---
 
 Cookpad（イギリス支社）を6月に退職し、7月からベルリンに移りSoundCloudで働いている。
