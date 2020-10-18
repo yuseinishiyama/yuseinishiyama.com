@@ -1,0 +1,3 @@
+#!/bin/sh
+
+hugo new $1.md -c content/post/drafts
