@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-pixyll"]
 	path = themes/hugo-theme-pixyll
 	url = https://github.com/azmelanar/hugo-theme-pixyll.git
+[submodule "themes/etch"]
+	path = themes/etch
+	url = https://github.com/LukasJoswiak/etch.git

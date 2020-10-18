@@ -1,6 +1,6 @@
 baseurl = "https://yuseinishiyama.com"
 title = "yuseinishiyama.com"
-theme = "hugo-theme-pixyll"
+theme = "etch"
 languageCode = "en-us"
 enableEmoji = true
 preserveTaxonomyNames = true
