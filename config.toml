@@ -7,6 +7,13 @@ defaultContentLanguage = "ja"
 hasCJKLanguage = true
 enableRobotsTXT = true
 canonifyURLs = true
+googleAnalytics = "UA-48020408-1"
+
+[params]
+description = "Yusei Nishiyama's website"
+copyright = "Copyright © 2020 Yusei Nishiyama"
+dark = "off"
+highlight = true
 
 [permalinks]
 post = "posts/:year/:month/:day/:filename/"
@@ -16,5 +23,17 @@ post = "posts/:year/:month/:day/:filename/"
 [languages.ja]
 weight = 1
 
-[languages.en]
-weight = 2
+[menu]
+[[menu.main]]
+  identifier = "posts"
+  name = "posts"
+  title = "posts"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "about"
+  url = "/about/"
+  weight = 20
