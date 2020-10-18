@@ -1,15 +1,19 @@
 baseurl = "https://yuseinishiyama.com"
 title = "yuseinishiyama.com"
-theme = "hugo-theme-pixyll"
+theme = "etch"
 languageCode = "en-us"
 enableEmoji = true
-preserveTaxonomyNames = true
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
-metaDataFormat = "toml"
-disqusShortname = "yuseinishiyama"
 enableRobotsTXT = true
 canonifyURLs = true
+googleAnalytics = "UA-48020408-1"
+
+[params]
+description = "Yusei Nishiyama's website"
+copyright = "Copyright © 2020 Yusei Nishiyama"
+dark = "off"
+highlight = true
 
 [permalinks]
 post = "posts/:year/:month/:day/:filename/"
@@ -19,14 +23,17 @@ post = "posts/:year/:month/:day/:filename/"
 [languages.ja]
 weight = 1
 
-[languages.en]
-weight = 2
+[menu]
+[[menu.main]]
+  identifier = "posts"
+  name = "posts"
+  title = "posts"
+  url = "/"
+  weight = 10
 
-[indexes]
-category = "categories"
-tag = "tags"
-
-[params]
-google_analytics_id = "UA-48020408-1"
-twitter_username = "yuseinishiyama"
-paginate = 5
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "about"
+  url = "/about/"
+  weight = 20
