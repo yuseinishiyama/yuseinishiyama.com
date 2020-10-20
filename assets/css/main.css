@@ -23,11 +23,6 @@ header#banner {
 
 header#banner a {
     color: #313a3d;
-    text-decoration: none;
-}
-
-header#banner a:hover {
-    text-decoration: underline;
 }
 
 header#banner h2 {
