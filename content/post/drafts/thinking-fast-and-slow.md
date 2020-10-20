@@ -6,9 +6,8 @@ draft: true
 
 Daniel Kahnemanの"Thinking, Fast and Slow"を読んだ。とても長い本で、様々な人間の認知バイアスを紹介した本として総括されることが多い。だが、認知バイアス自体は少し懸命な人なら薄々自覚しているだろうし、それほど目新しいものでもない。大事なのは、様々な認知バイアスが分類され名前がつけられることであり、実際に
 
-Ultimately, a richer language is essential to the skill of constructive criticism. Much like medicine, the identification of judgment errors is a diagnostic task, which requires a precise vocabulary. The name of a disease is a hook to which all that is known about the disease is attached, including vulnerabilities, environmental factors, symptoms, prognosis, and care. Similarly, labels such as “anchoring effects,” “narrow framing,” or “excessive coherence” bring together in memory everything we know about a bias, its causes, its effects, and what can be done about it.
-
-Kahneman, Daniel. Thinking, Fast and Slow (p. 418). Farrar, Straus and Giroux. Kindle Edition.
+> Ultimately, a richer language is essential to the skill of constructive criticism. Much like medicine, the identification of judgment errors is a diagnostic task, which requires a precise vocabulary. The name of a disease is a hook to which all that is known about the disease is attached, including vulnerabilities, environmental factors, symptoms, prognosis, and care. Similarly, labels such as “anchoring effects,” “narrow framing,” or “excessive coherence” bring together in memory everything we know about a bias, its causes, its effects, and what can be done about it.
+<cite>Kahneman, Daniel. Thinking, Fast and Slow (p. 418)</cite>
 
 確かに、前半はそのような内容なのだが、そうしたバイアスが生み出すより大きなレベルでの難問が提示される後半部こそがこの本の醍醐味ではないかと思われる。その難問とは、組織的な意思決定、公平性、幸せである。
 
