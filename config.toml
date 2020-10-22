@@ -1,7 +1,7 @@
 baseurl = "https://yuseinishiyama.com"
 title = "yuseinishiyama.com"
 theme = "etch"
-languageCode = "en-us"
+languageCode = "ja"
 enableEmoji = true
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
