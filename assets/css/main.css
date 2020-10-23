@@ -75,29 +75,6 @@ main#content a:hover {
     text-decoration: underline;
 }
 
-main#content h1,
-main#content h2,
-main#content h3,
-main#content h4,
-main#content h5,
-main#content h6 {
-    line-height: 1.15;
-}
-
-main#content h3 {
-    font-size: 19px;
-    font-size: 1.9rem;
-}
-
-main#content h1 + p,
-main#content h2 + p,
-main#content h3 + p,
-main#content h4 + p,
-main#content h5 + p,
-main#content h6 + p {
-    margin-top: 5px;
-}
-
 main#content hr {
     height: 1px;
     border: 0;
