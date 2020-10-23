@@ -1,6 +1,6 @@
-<header id="banner">
-    <h2><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>
+<header>
     <nav>
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
         <ul>
             {{ range .Site.Menus.main.ByWeight -}}
             <li>

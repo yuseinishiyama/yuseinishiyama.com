@@ -33,37 +33,27 @@ blockquote p cite:before {
     content: "—";
 }
 
-header#banner {
+header {
     margin: 25px 0;
 }
 
-header#banner a {
-    color: #313a3d;
-}
-
-header#banner h2 {
-    display: inline;
-    margin: 0 8px 0 0;
-}
-
-header#banner nav {
+nav * {
     display: inline-block;
 }
 
-header#banner nav ul {
+nav a {
+    color: #313a3d;
+}
+
+nav ul {
     list-style-type: none;
     text-transform: lowercase;
     margin: 0;
     padding: 0;
 }
 
-header#banner nav ul li {
-    display: inline;
+nav ul li {
     margin: 0 3px;
-}
-
-header#banner nav ul li a {
-    color: #454545;
 }
 
 main#content a {
