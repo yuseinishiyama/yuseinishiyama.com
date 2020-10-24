@@ -1,11 +1,1 @@
-@media (min-width: 770px) {
-body {
-    width: 640px;
-    line-height: 1.8;
-}
-
-main#content header#post-header h1 {
-    font-size: 26px;
-    font-size: 2.6rem;
-}
-}
+/* Empty file to disable the originl CSS */
