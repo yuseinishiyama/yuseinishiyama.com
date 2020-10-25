@@ -1,9 +1,12 @@
-<h3>最新記事</h3>
+<h2>記事一覧</h2>
 <ul id="posts">
-{{- range where site.RegularPages "Type" "in" site.Params.mainSections | first 5}}
+{{- range (where .Site.RegularPages "Type" "in" "posts").GroupByPublishDate "2006" }}
+<h2>{{ .Key }}年</h2>
+{{- range .Pages }}
     <li>
-        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+        <time>{{ .Date.Format "1月2日" }}</time>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
+{{- end }}
 {{- end }}
 </ul>
