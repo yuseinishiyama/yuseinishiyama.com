@@ -46,22 +46,12 @@ nav ul li {
     margin: 0 3px;
 }
 
-main#content a {
-    color: #007dfa;
-    text-decoration: none;
-}
-
-main#content a:hover {
-    text-decoration: underline;
-}
-
 main#content hr {
     height: 1px;
     border: 0;
     background: #d8d8d8;
 }
 
-/* index.html styles */
 main#content ul#posts {
     list-style-type: none;
     margin-top: 0;
@@ -77,14 +67,6 @@ main#content ul#posts small {
     font-size: 0.8rem;
     color: #767676;
     margin-left: 10px;
-}
-
-main#content ul#posts li a {
-    text-decoration: none;
-}
-
-main#content ul#posts li a:hover {
-    color: #369aff;
 }
 
 main#content ul#posts li a:hover small {
@@ -168,7 +150,7 @@ footer#footer {
 
 blockquote {
     border-left: 0.4rem solid #eee;
-       font-style: italic;
+    font-style: italic;
     margin: 1rem 0;
     padding-left: 1rem;
 }
