@@ -1,0 +1,6 @@
+<h2>最新の投稿</h2>
+<ul id="posts">
+{{- range where .Site.RegularPages "Type" "in" "posts" | first 5 }}
+{{- partial "post-list-item.html" . -}}
+{{- end }}
+</ul>
