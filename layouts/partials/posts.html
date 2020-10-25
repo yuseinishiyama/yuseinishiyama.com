@@ -1,6 +1,6 @@
-<h3>Posts</h3>
+<h3>最新記事</h3>
 <ul id="posts">
-{{- range where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- range where site.RegularPages "Type" "in" site.Params.mainSections | first 5}}
     <li>
         <time>{{ .Date.Format "Jan 2, 2006" }}</time>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
