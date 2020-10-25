@@ -30,13 +30,6 @@ title = "過去の投稿"
 url = "/posts"
 weight = 10
 
-[[menu.main]]
-identifier = "about"
-name = "about"
-title = "about"
-url = "/about/"
-weight = 20
-
 [markup.goldmark.renderer]
 # Allow HTML in Markdown
 unsafe = true

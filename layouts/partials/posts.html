@@ -1,12 +1,9 @@
-<h2>記事一覧</h2>
+{{ .Content }}
 <ul id="posts">
 {{- range (where .Site.RegularPages "Type" "in" "posts").GroupByPublishDate "2006" }}
 <h2>{{ .Key }}年</h2>
 {{- range .Pages }}
-    <li>
-        <time>{{ .Date.Format "1月2日" }}</time>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+{{- partial "post-list-item.html" . -}}
 {{- end }}
 {{- end }}
 </ul>
