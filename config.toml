@@ -16,7 +16,7 @@ dark = "off"
 highlight = true
 
 [permalinks]
-post = "posts/:year/:month/:day/:filename/"
+posts = "posts/:year/:month/:day/:filename/"
 
 [languages]
 
