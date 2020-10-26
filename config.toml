@@ -10,7 +10,7 @@ canonifyURLs = true
 googleAnalytics = "UA-48020408-1"
 
 [params]
-description = "Yusei Nishiyama's website"
+description = "yuseinishiyama.com"
 copyright = "Copyright © 2020 Yusei Nishiyama"
 dark = "off"
 highlight = true
@@ -19,7 +19,6 @@ highlight = true
 posts = "posts/:year/:month/:day/:filename/"
 
 [languages]
-
 [languages.ja]
 weight = 1
 
@@ -33,3 +32,6 @@ weight = 10
 [markup.goldmark.renderer]
 # Allow HTML in Markdown
 unsafe = true
+
+[social]
+twitter = "yuseinishiyama"

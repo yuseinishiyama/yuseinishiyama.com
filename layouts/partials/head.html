@@ -30,11 +30,7 @@
 
   <title>{{ .Title }}</title>
 
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:url" content="{{ .Permalink }}" />
-  <meta name="twitter:site" content="@yuseinishiyama" />
-  <meta name="twitter:creator" content="@yuseinishiyama" />
+  {{ template "_internal/twitter_cards.html" . }}
 
   <!-- OG data -->
   <meta name="og:title" content="{{ .Title }}" />
