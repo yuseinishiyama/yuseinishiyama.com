@@ -18,11 +18,9 @@ highlight = true
 [permalinks]
 posts = "posts/:year/:month/:day/:filename/"
 
-[languages]
 [languages.ja]
 weight = 1
 
-[menu]
 [[menu.main]]
 name = "過去の投稿"
 title = "過去の投稿"
