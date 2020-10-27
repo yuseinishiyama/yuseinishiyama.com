@@ -1,6 +1,5 @@
 baseurl = "https://yuseinishiyama.com"
 title = "yuseinishiyama.com"
-theme = "etch"
 languageCode = "ja"
 enableEmoji = true
 defaultContentLanguage = "ja"
