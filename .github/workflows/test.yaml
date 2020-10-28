@@ -12,8 +12,9 @@ jobs:
       - name: Build
         uses: docker://klakegg/hugo
         with:
-          args: --environment=production --minify --verbose
+          args: --minify --verbose
       - name: Validate
-        uses: docker://klakegg/html-proofer
-        with:
-          args: public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+        run: echo "Validate is currently disabled"
+#       uses: docker://klakegg/html-proofer
+#       with:
+#         args: public --allow-hash-href --check-html --empty-alt-ignore --disable-external
