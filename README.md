@@ -1,4 +1,4 @@
-# yuseinishiyama.com
+# [yuseinishiyama.com](yuseinishiyama.com)
 
 Yusei Nishiyama's weblog with the philosophy of "a blog that I can maintain".
 
