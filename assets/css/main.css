@@ -43,13 +43,12 @@ nav a {
 
 nav ul {
     list-style-type: none;
-    text-transform: lowercase;
     margin: 0;
     padding: 0;
 }
 
 nav ul li {
-    margin: 0 0.3rem;
+    margin: 0 0 0 0.5rem;
 }
 
 main#content hr {

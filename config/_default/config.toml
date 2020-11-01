@@ -29,6 +29,12 @@ googleAnalytics = "UA-48020408-1"
   url = "/posts"
   weight = 10
 
+[[menu.main]]
+  name = "フィード"
+  title = "フィード"
+  url = "/index.xml"
+  weight = 20
+
 [markup.goldmark.renderer]
   # Allow HTML in Markdown
   unsafe = true
