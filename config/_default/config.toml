@@ -16,6 +16,7 @@ googleAnalytics = "UA-48020408-1"
   copyright = "Copyright © 2020 Yusei Nishiyama"
   dark = "off"
   highlight = true
+  images = ["default-image.png"]
 
 [permalinks]
   posts = "posts/:year/:month/:day/:filename/"
