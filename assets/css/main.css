@@ -99,14 +99,13 @@ main#content figure figcaption {
     padding: 0 1rem;
 }
 
-main#content code
-main#content pre {
+p code {
     font-family: 'Menlo', monospace;
+    padding: 0 0.2rem;
 }
 
-main#content code {
+code {
     font-size: 0.8rem;
-    padding: 0 4rem;
 }
 
 main#content pre {
@@ -115,10 +114,6 @@ main#content pre {
     white-space: pre;
     padding: 0.8rem 1rem;
     line-height: 1.1;
-}
-
-main#content pre code {
-    padding: 0;
 }
 
 main#content section.footnotes {
