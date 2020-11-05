@@ -20,9 +20,10 @@ title: yuseinishiyama.com
 - [Building iOS apps at scale](https://speakerdeck.com/yuseinishiyama/building-ios-apps-at-scale), iOSDevUK, Aberystwyth, UK
 - [Reduce build times and get home eariler](https://speakerdeck.com/yuseinishiyama/reduce-build-times-and-get-home-eariler), CodeMobile, Chester, UK
 
-## SNS
+## リンク
 
-- [Twitter](https://twitter.com/yuseinishiyama)
-- [Facebook](https://www.facebook.com/yusei.nishiyama.7/)
 - [LinkedIn](https://www.linkedin.com/in/yusei-nishiyama-6b45299b/)
+- [GitHub](https://github.com/yuseinishiyama/)
+- [Facebook](https://www.facebook.com/yusei.nishiyama.7/)
+- [Twitter](https://twitter.com/yuseinishiyama/)
 - [Instagram](https://www.instagram.com/yuseinishiyama/)
