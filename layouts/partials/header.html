@@ -1,6 +1,6 @@
 <header>
     <nav>
-        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <a href="{{ absLangURL "/" }}">{{ .Site.Title }}</a>
         <ul>
             {{ range .Site.Menus.main.ByWeight -}}
             <li>

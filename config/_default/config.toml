@@ -1,6 +1,5 @@
-baseurl = "https://yuseinishiyama.com"
 title = "yuseinishiyama.com"
-languageCode = "ja"
+baseURL = "https://yuseinishiyama.com"
 enableEmoji = true
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
@@ -19,21 +18,6 @@ googleAnalytics = "UA-48020408-1"
 
 [permalinks]
   posts = "posts/:year/:month/:day/:filename/"
-
-[languages.ja]
-  weight = 1
-
-[[menu.main]]
-  name = "過去の投稿"
-  title = "過去の投稿"
-  url = "/posts"
-  weight = 10
-
-[[menu.main]]
-  name = "フィード"
-  title = "フィード"
-  url = "/index.xml"
-  weight = 20
 
 [markup.goldmark.renderer]
   # Allow HTML in Markdown

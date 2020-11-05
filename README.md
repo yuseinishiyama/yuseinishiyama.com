@@ -6,9 +6,7 @@ This website is powered by vanilla [Hugo](https://gohugo.io/) and hosted on AWS 
 
 ## TODO
 
-- RSS feed
 - Search
-- Multi-language support
 - Yak shaving
   - Consolidate tags
   - Fix old posts and make HTML validation pass
