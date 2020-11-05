@@ -13,7 +13,6 @@ googleAnalytics = "UA-48020408-1"
 [params]
   description = "yuseinishiyama.com"
   copyright = "Copyright © 2020 Yusei Nishiyama"
-  dark = "off"
   highlight = true
 
 [permalinks]
