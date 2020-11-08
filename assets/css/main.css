@@ -142,3 +142,7 @@ blockquote p cite {
 blockquote p cite:before {
     content: "—";
 }
+
+.twitter-tweet {
+    margin: 0 auto
+}
