@@ -27,3 +27,4 @@ title: yuseinishiyama.com
 - [Facebook](https://www.facebook.com/yusei.nishiyama.7/)
 - [Twitter](https://twitter.com/yuseinishiyama/)
 - [Instagram](https://www.instagram.com/yuseinishiyama/)
+- [Goodreads](https://www.goodreads.com/user/show/96221595-yusei-nishiyama/)
