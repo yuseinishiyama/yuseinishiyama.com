@@ -2,6 +2,7 @@
     --text: #313a3d;
     --text-subtle: #767676;
     --border: #d8d8d8;
+    --nav-margin: 0.5rem;
 }
 
 html {
@@ -44,11 +45,11 @@ nav a {
 nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0 0 0 var(--nav-margin);
 }
 
 nav ul li {
-    margin: 0 0 0 0.5rem;
+    margin: 0 var(--nav-margin) 0 0;
 }
 
 main#content hr {

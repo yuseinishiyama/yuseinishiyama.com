@@ -2,22 +2,16 @@
   weight = 1
 
 [[ja.menu.main]]
-  name = "過去の投稿"
-  title = "過去の投稿"
+  name = "記事一覧"
+  title = "記事一覧"
   url = "/posts"
   weight = 10
 
 [[ja.menu.main]]
-  name = "フィード"
-  title = "フィード"
-  url = "/index.xml"
-  weight = 20
-
-[[ja.menu.main]]
-  name = "English"
-  title = "English"
+  name = "en"
+  title = "en"
   url = "/en"
-  weight = 30
+  weight = 20
 
 [en]
   weight = 2
