@@ -16,6 +16,8 @@
 
   {{ $resources = $resources | append (resources.Get "css/toc.css") -}}
 
+  {{ $resources = $resources | append (resources.Get "css/amazon.css") -}}
+
   {{ if .Site.Params.highlight -}}
       {{ $resources = $resources | append (resources.Get "css/syntax.css") -}}
   {{ end -}}

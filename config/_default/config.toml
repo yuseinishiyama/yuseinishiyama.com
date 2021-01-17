@@ -14,6 +14,7 @@ googleAnalytics = "UA-48020408-1"
   description = "yuseinishiyama.com"
   copyright = "Copyright © 2020 Yusei Nishiyama"
   highlight = true
+  amazonJpAffiliate = "usay0b-22"
 
 [permalinks]
   posts = "posts/:year/:month/:day/:filename/"
